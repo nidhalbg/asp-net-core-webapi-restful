@@ -1,0 +1,10 @@
+/home/webdev/Dev/asp-net-core-webapi-restful/bin/Debug/netcoreapp2.0/asp-net-core-webapi-restful.deps.json
+/home/webdev/Dev/asp-net-core-webapi-restful/bin/Debug/netcoreapp2.0/asp-net-core-webapi-restful.runtimeconfig.json
+/home/webdev/Dev/asp-net-core-webapi-restful/bin/Debug/netcoreapp2.0/asp-net-core-webapi-restful.runtimeconfig.dev.json
+/home/webdev/Dev/asp-net-core-webapi-restful/bin/Debug/netcoreapp2.0/asp-net-core-webapi-restful.dll
+/home/webdev/Dev/asp-net-core-webapi-restful/bin/Debug/netcoreapp2.0/asp-net-core-webapi-restful.pdb
+/home/webdev/Dev/asp-net-core-webapi-restful/obj/Debug/netcoreapp2.0/asp-net-core-webapi-restful.csproj.CoreCompileInputs.cache
+/home/webdev/Dev/asp-net-core-webapi-restful/obj/Debug/netcoreapp2.0/asp-net-core-webapi-restful.AssemblyInfoInputs.cache
+/home/webdev/Dev/asp-net-core-webapi-restful/obj/Debug/netcoreapp2.0/asp-net-core-webapi-restful.AssemblyInfo.cs
+/home/webdev/Dev/asp-net-core-webapi-restful/obj/Debug/netcoreapp2.0/asp-net-core-webapi-restful.dll
+/home/webdev/Dev/asp-net-core-webapi-restful/obj/Debug/netcoreapp2.0/asp-net-core-webapi-restful.pdb
